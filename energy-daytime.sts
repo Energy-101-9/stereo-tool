@@ -357,7 +357,7 @@ Post amplifier - Limit at 0 dB=1
 Pre amplifier=0.177827895
 Relative loudness for non-FM=1.035142183
 [Declipper]
-Allow more dynamics (dynamic)=0.050000001
+Allow more dynamics (dynamic)=0
 Allow more dynamics (static)=1
 Amount of peak samples to remove - long term=0.150000006
 Amount of peak samples to remove - short term=0.620000005
