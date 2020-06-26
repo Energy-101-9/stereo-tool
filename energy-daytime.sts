@@ -143,7 +143,7 @@ Output lowpass frequency=150
 Output lowpass slope=16
 Place in chain=After Multibands
 Remove harmonics=0
-Strength=0.211348906
+Strength=0.237137377
 [Basstardizer]
 Headroom=6
 Input lowpass frequency=119
