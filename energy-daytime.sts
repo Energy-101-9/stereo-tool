@@ -18039,7 +18039,7 @@ Stereo Image Enabled=1
 [Stereo Delay]
 Attenuation attack speed=0.01
 Attenuation release speed=0.001
-Boost=0.400000006
+Boost=0.75
 Delay=9.300000191
 Difference=0
 Do nothing if smaller than=0.02
