@@ -4042,7 +4042,7 @@ Highpass in side chain offset - Big step=0
 Highpass in side chains=1
 Highpass post filter=1
 Highpass post filter - avoid artifacts=1
-Lowpass filter=22000
+Lowpass filter=20000
 Lowpass filter before processing=1
 Non-phase-linear highpass filter order=6
 [Output stream]
