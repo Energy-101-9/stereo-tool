@@ -3122,7 +3122,7 @@ Window band 7=0
 Window band 8=0
 Window band 9=0
 [Multiband Compressor 5]
-Aggressiveness=0.852818727
+Aggressiveness=0.897585869
 Attack (time to drop 86% in ms) band 1=42.875011444
 Attack (time to drop 86% in ms) band 2=166.375015259
 Attack (time to drop 86% in ms) band 3=561.515625
